@@ -126,7 +126,7 @@ async def start(client, message):
                 reply_markup=reply_markup
             )
             filesarr.append(msg)
-        k = await client.send_message(chat_id = message.from_user.id, text=f"<b><u>IMPORTANT</u></b>\n\nThis Movie Files/Videos will be deleted in <b>10 mins<i></b>(Due to Copyright Issues)</i>.\n\n<b><i>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</i></b>")
+        k = await client.send_message(chat_id = message.from_user.id, text=f"<b><u>IMPORTANT</u></b>\n\nThis Movie Files/Videos will be deleted in 10 mins Due to Copyright Issues.\n\n<b><u>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</u></b>")
         await asyncio.sleep(600)
         for x in filesarr:
             await x.delete()
@@ -179,7 +179,7 @@ async def start(client, message):
                 caption=f_caption,
                 reply_markup=reply_markup
             )
-            k = await msg.reply("<b><u>IMPORTANT</u></b>\n\nThis Movie Files/Videos will be deleted in <b>10 mins<i></b>(Due to Copyright Issues)</i>.\n\n<b><i>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</i></b>",quote=True)
+            k = await msg.reply("<b><u>IMPORTANT</u></b>\n\nThis Movie Files/Videos will be deleted in 10 mins Due to Copyright Issues.\n\n<b><u>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</u></b>",quote=True)
             await asyncio.sleep(600)
             await msg.delete()
             await k.edit_text("<b>Your File/Video is successfully deleted!!!</b>")
@@ -212,7 +212,7 @@ async def start(client, message):
         protect_content=True if pre == 'filep' else False,
         reply_markup=reply_markup
     )
-    k = await msg.reply("<b><u>IMPORTANT</u></b>\n\nThis Movie Files/Videos will be deleted in <b>10 mins<i></b>(Due to Copyright Issues)</i>.\n\n<b><i>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</i></b>",quote=True)
+    k = await msg.reply("<b><u>IMPORTANT</u></b>\n\nThis Movie Files/Videos will be deleted in 10 mins Due to Copyright Issues.\n\n<b><u>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</u></b>",quote=True)
     await asyncio.sleep(600)
     await msg.delete()
     await k.edit_text("<b>Your File/Video is successfully deleted!!!</b>")

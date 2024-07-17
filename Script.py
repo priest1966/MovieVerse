@@ -445,7 +445,7 @@ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 BOT WORKING PROPERLY"""
  
     TAMIL_INFO = """
-ஏய்{message.from_user.mention} 
+ஏய் <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  இப்போது டெலிகிராமிலும் பணம் சம்பாதிக்கலாம்.
@@ -472,7 +472,7 @@ BOT WORKING PROPERLY"""
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
 
     ENGLISH_INFO = """
-Hey{message.from_user.mention} 
+Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  Now you can earn money on Telegram too.
@@ -499,7 +499,7 @@ Hey{message.from_user.mention}
 Also your tutorial will be Added Your Group..."""
 
     TELUGU_INFO = """
-హే{message.from_user.mention} 
+హే <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  ఇప్పుడు మీరు టెలిగ్రామ్‌లో కూడా డబ్బు సంపాదించవచ్చు.
@@ -526,7 +526,7 @@ Also your tutorial will be Added Your Group..."""
 అలాగే మీ బృందం వీడియో సేకరణకు శిక్షణ ఇస్తుంది..."""
 
     HINDI_INFO = """
-अरे{message.from_user.mention} 
+अरे <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  अब आप टेलीग्राम पर भी पैसे कमा सकते हैं।
@@ -553,7 +553,7 @@ Also your tutorial will be Added Your Group..."""
 साथ ही आपकी टीम वीडियो संग्रह का प्रशिक्षण भी देगी..."""
 
     MALAYALAM_INFO = """
-ഹേയ്{message.from_user.mention} 
+ഹേയ് <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  ഇപ്പോൾ നിങ്ങൾക്ക് ടെലിഗ്രാമിലും പണം സമ്പാദിക്കാം.
@@ -580,7 +580,7 @@ Also your tutorial will be Added Your Group..."""
 നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
 
     URTU_INFO = """
-{message.from_user.mention} 
+ <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  اب آپ ٹیلی گرام پر بھی پیسے کما سکتے ہیں۔
@@ -607,7 +607,7 @@ Also your tutorial will be Added Your Group..."""
 نیز آپ کی ٹیم ویڈیو جمع کرنے کی تربیت دے گی..."""
 
     GUJARATI_INFO = """
-અરે{message.from_user.mention} 
+અરે <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  હવે તમે ટેલિગ્રામ પર પણ પૈસા કમાઈ શકો છો.
@@ -634,7 +634,7 @@ Also your tutorial will be Added Your Group..."""
 તેમજ તમારી ટીમ વિડિયો કલેક્શનની તાલીમ આપશે..."""
 
     KANNADA_INFO = """
-ಹೇ {message.from_user.mention}
+ಹೇ  <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  ಈಗ ನೀವು ಟೆಲಿಗ್ರಾಮ್‌ನಲ್ಲಿಯೂ ಹಣ ಗಳಿಸಬಹುದು.
 
@@ -660,7 +660,7 @@ Also your tutorial will be Added Your Group..."""
 ನಿಮ್ಮ ತಂಡವು ವೀಡಿಯೋ ಸಂಗ್ರಹಣೆಗೆ ತರಬೇತಿ ನೀಡಲಿದೆ..."""
 
     BANGLADESH_INFO = """
-আরে{message.from_user.mention} 
+আরে <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
  এখন আপনি টেলিগ্রামেও অর্থ উপার্জন করতে পারেন।
 
