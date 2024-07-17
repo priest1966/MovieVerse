@@ -11,7 +11,7 @@ import random
 async def stream_start(client, message):
     if STREAM_MODE == False:
         return 
-    msg = await client.ask(message.chat.id, "**Now send me your file/video to get stream and download link**")
+    msg = await client.ask(message.chat.id, "**Now send me your file/video to get stream and download link\n\nNsғᴡ Rᴇsᴛʀɪᴄᴛᴇᴅ 🚫 Bʀᴇᴀᴋɪɴɢ Rᴜʟᴇs Lᴇᴀᴅs Yᴏᴜ Tᴏ Pᴇʀᴍᴀɴᴇɴᴛ Bᴀɴ.**")
     if not msg.media:
         return await message.reply("**Please send me supported media.**")
     if msg.media in [enums.MessageMediaType.VIDEO, enums.MessageMediaType.DOCUMENT]:
