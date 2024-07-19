@@ -178,11 +178,11 @@ Nᴀᴍᴇ - {}"""
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+ᴇxᴀᴍᴘʟᴇ : Uncharted
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+ᴇxᴀᴍᴘʟᴇ : Loki
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
@@ -202,7 +202,7 @@ Select Your Language And Earn Money"""
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
 
-ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ
+ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ.
 
 ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ"""
 
@@ -314,7 +314,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ╭━━━━❰ Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
-┣⪼  : {3}/s
+┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
 ╰━━━━━━━━━━━━━━━➣ """
   
@@ -445,7 +445,7 @@ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 BOT WORKING PROPERLY"""
  
     TAMIL_INFO = """
-ஏய் <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ ஏய் <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  இப்போது டெலிகிராமிலும் பணம் சம்பாதிக்கலாம்.
@@ -469,10 +469,10 @@ BOT WORKING PROPERLY"""
 
  Exp: /set_tutorial video link
 
-மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
+ மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
 
     ENGLISH_INFO = """
-Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  Now you can earn money on Telegram too.
@@ -496,10 +496,10 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  Exp: /set_tutorial video link
 
-Also your tutorial will be Added Your Group..."""
+ Also your tutorial will be Added Your Group..."""
 
     TELUGU_INFO = """
-హే <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ హే <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  ఇప్పుడు మీరు టెలిగ్రామ్‌లో కూడా డబ్బు సంపాదించవచ్చు.
@@ -523,10 +523,10 @@ Also your tutorial will be Added Your Group..."""
 
  గడువు: /set_tutorial వీడియో లింక్
 
-అలాగే మీ బృందం వీడియో సేకరణకు శిక్షణ ఇస్తుంది..."""
+ అలాగే మీ బృందం వీడియో సేకరణకు శిక్షణ ఇస్తుంది..."""
 
     HINDI_INFO = """
-अरे <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ अरे <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  अब आप टेलीग्राम पर भी पैसे कमा सकते हैं।
@@ -546,14 +546,14 @@ Also your tutorial will be Added Your Group..."""
 
  एक वीडियो जोड़ें
 
-कैसे जोड़ें
+ कैसे जोड़ें
 
  ऍक्स्प: /set_tutorial वीडियो लिंक
 
-साथ ही आपकी टीम वीडियो संग्रह का प्रशिक्षण भी देगी..."""
+ साथ ही आपकी टीम वीडियो संग्रह का प्रशिक्षण भी देगी..."""
 
     MALAYALAM_INFO = """
-ഹേയ് <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ ഹേയ് <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  ഇപ്പോൾ നിങ്ങൾക്ക് ടെലിഗ്രാമിലും പണം സമ്പാദിക്കാം.
@@ -577,7 +577,7 @@ Also your tutorial will be Added Your Group..."""
 
  കാലഹരണപ്പെടൽ: /set_tutorial വീഡിയോ ലിങ്ക്
 
-നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
+ നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
 
     URTU_INFO = """
  <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
@@ -607,7 +607,7 @@ Also your tutorial will be Added Your Group..."""
 نیز آپ کی ٹیم ویڈیو جمع کرنے کی تربیت دے گی..."""
 
     GUJARATI_INFO = """
-અરે <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ અરે <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  હવે તમે ટેલિગ્રામ પર પણ પૈસા કમાઈ શકો છો.
@@ -631,10 +631,10 @@ Also your tutorial will be Added Your Group..."""
 
  સમાપ્તિ: /set_tutorial વિડિઓ લિંક
 
-તેમજ તમારી ટીમ વિડિયો કલેક્શનની તાલીમ આપશે..."""
+ તેમજ તમારી ટીમ વિડિયો કલેક્શનની તાલીમ આપશે..."""
 
     KANNADA_INFO = """
-ಹೇ  <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
+ ಹೇ  <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  ಈಗ ನೀವು ಟೆಲಿಗ್ರಾಮ್‌ನಲ್ಲಿಯೂ ಹಣ ಗಳಿಸಬಹುದು.
 
@@ -657,10 +657,10 @@ Also your tutorial will be Added Your Group..."""
 
  ಅವಧಿ: /set_tutorial ವೀಡಿಯೊ ಲಿಂಕ್
 
-ನಿಮ್ಮ ತಂಡವು ವೀಡಿಯೋ ಸಂಗ್ರಹಣೆಗೆ ತರಬೇತಿ ನೀಡಲಿದೆ..."""
+ ನಿಮ್ಮ ತಂಡವು ವೀಡಿಯೋ ಸಂಗ್ರಹಣೆಗೆ ತರಬೇತಿ ನೀಡಲಿದೆ..."""
 
     BANGLADESH_INFO = """
-আরে <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ আরে <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
  এখন আপনি টেলিগ্রামেও অর্থ উপার্জন করতে পারেন।
 
@@ -683,13 +683,13 @@ Also your tutorial will be Added Your Group..."""
 
  মেয়াদ: /set_tutorial ভিডিও লিঙ্ক
 
-এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে..."""
+ এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে..."""
 
 
     DEVELOPER_TXT = """
 special Thanks-
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/icecube9680_bot'>IceCube</a>
+-[Owner of this bot]<a href='https://t.me/icecube9680_bot'>IceCube</a>
 """
 
     RENAME_TXT = """
