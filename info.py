@@ -24,7 +24,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "6581063201:AAF6XLWv5T8LUhkr61lKVDfNZ5SJtU_
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://graph.org/file/bdf74912ff48bcedbe9cc.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/bdf74912ff48bcedbe9cc.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/howtoverify_97/3")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/bdf74912ff48bcedbe9cc.jpg")
@@ -73,8 +73,8 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movieverse_discussion_2')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movieverse_2')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movieverse_disscussion') # Support Chat Link Without https:// or @
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoverify_97/3')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movieverse_disscussion_2') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
