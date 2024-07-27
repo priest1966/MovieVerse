@@ -461,7 +461,7 @@ BOT WORKING PROPERLY"""
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ Exp: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -488,7 +488,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  Step 2: Add your website and API
 
- Exp: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ Exp: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  Add a video
 
@@ -515,7 +515,7 @@ Also your tutorial will be Added Your Group..."""
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ గడువు: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  వీడియోను జోడించండి
 
@@ -542,7 +542,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ एक्सप: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  एक वीडियो जोड़ें
 
@@ -569,7 +569,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ കാലഹരണപ്പെടൽ: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -596,7 +596,7 @@ Also your tutorial will be Added Your Group..."""
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ Exp: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  ایک ویڈیو شامل کریں۔
 
@@ -623,7 +623,7 @@ Also your tutorial will be Added Your Group..."""
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ સમાપ્તિ: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  વિડિઓ ઉમેરો
 
@@ -649,7 +649,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ ಅವಧಿ: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -675,7 +675,7 @@ Also your tutorial will be Added Your Group..."""
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink omegalinks.in 9b3b87cc699f7874fa7193531decf02364770e73
+ মেয়াদ: /shortlink viplinkshortx.in ae94aa02950078a27e61d002add8ca0ea8843e5a
 
  একটি ভিডিও যোগ করুন
 
