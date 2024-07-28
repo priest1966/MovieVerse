@@ -82,7 +82,6 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movieverse_discussion_2')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movieverse_2')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoverify_97/3')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movieverse_discussion_2') # Support Chat Link Without https:// or @
-=======
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/vj_bot_disscussion')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/vj_bots')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
