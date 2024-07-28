@@ -116,7 +116,7 @@ PORT = environ.get("PORT", "8080")
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>File Size:</b> {file_size}\n\n<b>[VLC Player Recommended](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share)</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>[VLC Player Recommended](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share)</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")
-IMDB_TEMPLATE = environ.get("<b>{title}</b>\n\n<b>Genres:</b> {genres}\n<b>Rating:</b> {rating}/10 Based on {votes} user ratings.\n<b>Languages: Hindi Or {languages}</b>\n<b>RunTime:</b> {runtime} Minutes\n<b>Release Info:</b> {release_date}\n\n<b>Story Line:</b> {plot}\n\n<b>Download {query} From Here\n\n[MovieVerse Backup](https://t.me/movieversepremium)</b>")
+IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>{title}</b>\n\n<b>Genres:</b> {genres}\n<b>Rating:</b> {rating}/10 Based on {votes} user ratings.\n<b>Languages: Hindi Or {languages}</b>\n<b>RunTime:</b> {runtime} Minutes\n<b>Release Info:</b> {release_date}\n\n<b>Story Line:</b> {plot}\n\n<b>Download {query} From Here\n\n[MovieVerse Backup](https://t.me/movieversepremium)</b>")
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 
 # Choose Option Settings 
