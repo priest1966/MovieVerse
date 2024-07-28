@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'MovieVerse')
 API_ID = int(environ.get('API_ID', '900652'))
 API_HASH = environ.get('API_HASH', 'a4183efcd370bf03011df1ba8772b1c9')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6581063201:AAF6XLWv5T8LUhkr61lKVDfNZ5SJtU_lEd0")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
@@ -74,7 +74,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movieverse_discussion_2')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movieverse_2')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoverify_97/3')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movieverse_disscussion_2') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movieverse_discussion_2') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
@@ -98,8 +98,8 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 # Token Verification Info :
 VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', True))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'mdiskshortner.link')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'ca7ccd8b6e197a03f98baec5078920bf26987dc2')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'viplinkshortx.in')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'viplinkshortx.in')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
@@ -107,15 +107,15 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/howtoverify_97/3'
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'mdiskshortner.link')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'ca7ccd8b6e197a03f98baec5078920bf26987dc2')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'viplinkshortx.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 PORT = environ.get("PORT", "8081")
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>File Size:</b> {file_size}\n\n<b>[VLC Player](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share) Recommended</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")
-BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>[VLC Player](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share) Recommended</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>File Size:</b> {file_size}\n\n<b>[VLC Player Recommended](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share)</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")
+BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>[VLC Player Recommended](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share)</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>{title}</b>\n\n<b>Genres:</b> {genres}\n<b>Rating:</b> {rating}/10 Based on {votes} user ratings.\n<b>Languages: Hindi Or {languages}</b>\n<b>RunTime:</b> {runtime} Minutes\n<b>Release Info:</b> {release_date}\n\n<b>Story Line:</b> {plot}\n\n<b>Download {query} From Here\n\n[MovieVerse Backup](https://t.me/movieversepremium)</b>")
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 
@@ -125,15 +125,6 @@ SEASONS = ["season 1", "season 2", "season 3", "season 4", "season 5", "season 6
 EPISODES = ["E01", "E02", "E03", "E04", "E05", "E06", "E07", "E08", "E09", "E10", "E11", "E12", "E13", "E14", "E15", "E16", "E17", "E18", "E19", "E20", "E21", "E22", "E23", "E24", "E25", "E26", "E27", "E28", "E29", "E30", "E31", "E32", "E33", "E34", "E35", "E36", "E37", "E38", "E39", "E40"]
 QUALITIES = ["360p", "480p", "720p", "1080p", "1440p", "2160p"]
 YEARS = ["1900", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"]
-
-
-<<<<<<< HEAD
-
-=======
-                           # Don't Remove Credit @VJ_Botz
-                           # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-                           # Ask Doubt on telegram @icecube9680_bot
->>>>>>> 24403b894080c6cc7959ba5ad2c841bf99b6c674
 
 
 # Online Stream and Download
@@ -166,11 +157,3 @@ LOG_STR += ("Spell Check Mode Is Enabled, bot will be suggesting related movies 
 LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST_ELM} elements\n" if MAX_LIST_ELM else "Full List of casts and crew will be shown in imdb template, restrict them by adding a value to MAX_LIST_ELM\n")
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
-
-<<<<<<< HEAD
-
-=======
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @icecube9680_bot
->>>>>>> 24403b894080c6cc7959ba5ad2c841bf99b6c674
