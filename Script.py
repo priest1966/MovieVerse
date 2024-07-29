@@ -1,5 +1,5 @@
 # Don't Remove Credit@movieversepremium
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+
 # Ask Doubt on telegram @icecube9680_bot
 
 
@@ -146,11 +146,11 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
 • /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇCᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
 
-    STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
-★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
-★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
-★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
+    STATUS_TXT = """<b>Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
+Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
+Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
+Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
+Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -212,7 +212,7 @@ Select Your Language And Earn Money"""
 For Movie Join First Then Click On Try Again Button"""
 
     NORSLTS = """ 
-★ #NoResults ★
+#NoResults
 
 ID <b>: {}</b>
 

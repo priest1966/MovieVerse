@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+
+
+
 
 
 import re
@@ -21,11 +21,6 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'MovieVerse')
 API_ID = int(environ.get('API_ID', '900652'))
 API_HASH = environ.get('API_HASH', 'a4183efcd370bf03011df1ba8772b1c9')
-
-SESSION = environ.get('SESSION', 'TechVJBot')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
-
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
@@ -77,7 +72,6 @@ CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "") # Necessary If clone 
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 # Links
-
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movieverse_discussion_2')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movieverse_2')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoverify_97/3')
@@ -108,12 +102,6 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
-
-VERIFY = bool(environ.get('VERIFY', True))
-VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', True))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'viplinkshortx.in')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
-
 VERIFY = bool(environ.get('VERIFY', False))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
 VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', '')
@@ -125,7 +113,6 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 
 # Shortlink Info
-
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'viplinkshortx.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
@@ -134,15 +121,6 @@ SHORTLINK_API = environ.get('SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 PORT = environ.get("PORT", "8081")
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-
-SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'hRPS5vvZc0OGOEUQJMJzPiojoVK2')
-
-# Others
-MAX_B_TN = environ.get("MAX_B_TN", "5")
-PORT = environ.get("PORT", "8080")
-MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
 
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>File Size:</b> {file_size}\n\n<b>[VLC Player Recommended](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share)</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b>File Name</b>: {file_name}\n\n<b>[VLC Player Recommended](https://play.google.com/store/apps/details?id=org.videolan.vlc&pcampaignid=web_share)</b>\n\n<b>Join Us: [MovieVerse Backup](https://t.me/movieversepremium)</b>")

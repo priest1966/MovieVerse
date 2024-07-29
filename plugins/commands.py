@@ -1,5 +1,5 @@
 # Don't Remove Credit@movieversepremium
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+
 # Ask Doubt on telegram @icecube9680_bot
 
 import os, string, logging, random, asyncio, time, datetime, re, sys, json, base64
@@ -402,7 +402,7 @@ async def start(client, message):
         userid = message.from_user.id if message.from_user else None
         settings = await get_settings(chat_id)
         g = await get_shortlink(chat_id, f"https://telegram.me/{temp.U_NAME}?start=allfiles_{file_id}")
-        k = await client.send_message(chat_id=message.from_user.id,text=f"<b>Get All Files in a Single Click!!!\n\nʟɪɴᴋ : {g}\n\n<i>Note: This message is deleted in 5 mins to avoid copyrights. Save the link to Somewhere else</i></b>", reply_markup=InlineKeyboardMarkup(
+        k = await client.send_message(chat_id=message.from_user.id,text=f"<b>Get All Files in a Single Click!!!\n\nʟɪɴᴋ : {g}\n\n<i>Note: This message is deleted in 5 mins to avoid copyrights. Save the link to Somewhere else/n/nBuy Premium Membership and Enjoy ads Free Experience. Check Our /plan</i></b>", reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton('Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ', url=g)

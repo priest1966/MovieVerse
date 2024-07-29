@@ -1,5 +1,5 @@
 # Don't Remove Credit@movieversepremium
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+
 # Ask Doubt on telegram @icecube9680_bot
 
 import re, os, json, base64, logging
