@@ -103,9 +103,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/icecube9680_bot>IceCube</a></b>
+ <b>Maintained by : <a href=https://t.me/icecube9680_bot>IceCube</a></b>
   
- <b>✯ Join here : <a href=https://t.me/movieversepremium>Join my updateds</a></b> 
+ <b>Join here : <a href=https://t.me/movieversepremium>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -320,14 +320,14 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
   
     ABOOK_TXT = """<b>ʜᴇʟᴩ : ᴀᴜᴅɪᴏʙᴏᴏᴋ 
   
- yᴏᴜ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ᴀ ᴩᴅꜰ ꜰɪʟᴇ ᴛᴏ ᴀ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴡɪᴛʜ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ✯ 
+ yᴏᴜ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ᴀ ᴩᴅꜰ ꜰɪʟᴇ ᴛᴏ ᴀ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴡɪᴛʜ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ 
   
  ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ: 
  /audiobook: ʀᴇᴩʟy ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴀɴy ᴩᴅꜰ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴇ ᴀᴜᴅɪᴏ 
 </b>""" 
   
  
-    PINGS_TXT = """<b>ᴘɪɴɢ ᴛᴇꜱᴛɪɴɢ:ʜᴇʟᴘꜱ ʏᴏᴜ ᴛᴏ ᴋɴᴏᴡ ʏᴏᴜʀ ᴘɪɴɢ🪄 
+    PINGS_TXT = """<b>ᴘɪɴɢ ᴛᴇꜱᴛɪɴɢ:ʜᴇʟᴘꜱ ʏᴏᴜ ᴛᴏ ᴋɴᴏᴡ ʏᴏᴜʀ ᴘɪɴɢ
   
  ᴄᴏᴍᴍᴀɴᴅꜱ: 
  • /alive - ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜ ᴀʀᴇ ᴀʟɪᴠᴇ. 
@@ -457,7 +457,7 @@ BOT WORKING PROPERLY"""
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த MovieVerse Bot போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த @MovieVerse_2_bot போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
@@ -484,7 +484,7 @@ BOT WORKING PROPERLY"""
 
  How and what to do
 
- Step 1: Administer this MovieVerse Bot bot to your group
+ Step 1: Administer this @MovieVerse_2_bot to your group
 
  Step 2: Add your website and API
 
@@ -511,7 +511,7 @@ BOT WORKING PROPERLY"""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ MovieVerse Bot బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ @MovieVerse_2_bot బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
@@ -538,7 +538,7 @@ BOT WORKING PROPERLY"""
 
  कैसे और क्या करना है
 
- चरण 1: इस फ़िल्टर-बॉट बॉट को अपने समूह में प्रशासित करें
+ चरण 1: इस @MovieVerse_2_bot को अपने समूह में प्रशासित करें
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
@@ -592,7 +592,7 @@ BOT WORKING PROPERLY"""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس MovieVerse Bot بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس @MovieVerse_2_bot بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
@@ -619,7 +619,7 @@ BOT WORKING PROPERLY"""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ MovieVerse Bot બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ @MovieVerse_2_bot બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
@@ -671,7 +671,7 @@ BOT WORKING PROPERLY"""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই MovieVerse Bot বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই @MovieVerse_2_bot বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
