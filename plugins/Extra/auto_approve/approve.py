@@ -124,7 +124,7 @@ async def auto_approve(client, message: ChatJoinRequest):
             ],[
                 InlineKeyboardButton('Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ', url=await get_tutorial(chat_id))
             ]]
-            k = await client.send_message(chat_id=message.from_user.id,text=f"<b>Get All Files in a Single Click!!!\n\nʟɪɴᴋ : {g}\n\n<i>Note: This message is deleted in 5 mins to avoid copyrights. Save the link to Somewhere else/n/nBuy Premium Membership and Enjoy ads Free Experience. Check Our /plan</i></b>", reply_markup=InlineKeyboardMarkup(button))
+            k = await client.send_message(chat_id=message.from_user.id,text=f"<b>Get All Files in a Single Click!!!\n\nʟɪɴᴋ : {g}\n\n<i>Note: This message is deleted in 5 mins to avoid copyrights. Save the link to Somewhere else\n\nBuy Premium Membership and Enjoy ads Free Experience. Check Our /plan</i></b>", reply_markup=InlineKeyboardMarkup(button))
             await asyncio.sleep(300)
             await k.edit("<b>Your message is successfully deleted!!!</b>")
             return   
