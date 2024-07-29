@@ -30,7 +30,7 @@ async def auto_approve(client, message: ChatJoinRequest):
             return 
         data = await db.get_msg_command(ap_user_id)
         
-        if data.split("-", 1)[0] == "VJ":
+        if data.split("-", 1)[0] == "MV":
             user_id = int(data.split("-", 1)[1])
             vj = await referal_add_user(user_id, message.from_user.id)
             if vj and PREMIUM_AND_REFERAL_MODE == True:
@@ -75,7 +75,7 @@ async def auto_approve(client, message: ChatJoinRequest):
                         InlineKeyboardButton('Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                     ]]
                 reply_markup = InlineKeyboardMarkup(buttons)
-                m=await client.send_sticker(chat_id = message.from_user.id, sticker = "CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
+                m=await client.send_sticker(chat_id = message.from_user.id, sticker = "CAACAgIAAxkBAAEIMQhmXyOfwpWL1WGhfmEgfLI0EGoBogACRwADWbv8JVyd1qxN32EsHgQ") 
                 await asyncio.sleep(1)
                 await m.delete()
                 await client.send_photo(
