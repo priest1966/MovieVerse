@@ -466,7 +466,7 @@ async def start(client, message):
                         InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\nBuy premium membership and say goodbye to ads. Check out /plan</b></b>",
+                        text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\n Turn Off Ads Blocker Or Use Chrome Browser For Verification.\n\nBuy premium membership and say goodbye to ads.\nCheck out /plan</b>",
                         protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
@@ -539,7 +539,7 @@ async def start(client, message):
                         InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
                     ]]
                     await message.reply_text(
-                        text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\nBuy premium membership and say goodbye to ads. Check out /plan</b></b>",
+                        text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\n Turn Off Ads Blocker Or Use Chrome Browser For Verification.\n\nBuy premium membership and say goodbye to ads.\nCheck out /plan</b>",
                         protect_content=True,
                         reply_markup=InlineKeyboardMarkup(btn)
                     )
@@ -611,7 +611,7 @@ async def start(client, message):
                 InlineKeyboardButton("How To Open Link & Verify", url=VERIFY_TUTORIAL)
             ]]
             await message.reply_text(
-                text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\nBuy premium membership and say goodbye to ads. Check out /plan</b></b>",
+                text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\n Turn Off Ads Blocker Or Use Chrome Browser For Verification.\n\nBuy premium membership and say goodbye to ads.\nCheck out /plan</b>",
                 protect_content=True,
                 reply_markup=InlineKeyboardMarkup(btn)
             )
@@ -1523,7 +1523,7 @@ async def check_plans_cmd(client, message):
         ]
         reply_markup = InlineKeyboardMarkup(btn)
         m=await message.reply_sticker("CAACAgIAAxkBAAIBTGVjQbHuhOiboQsDm35brLGyLQ28AAJ-GgACglXYSXgCrotQHjibHgQ")         
-        await message.reply_text(f"<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\nBuy premium membership and say goodbye to ads. Check out /plan</b>",reply_markup=reply_markup)
+        await message.reply_text(f"<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\n Turn Off Ads Blocker Or Use Chrome Browser For Verification.\n\nBuy premium membership and say goodbye to ads.\nCheck out /plan</b>",reply_markup=reply_markup)
         await asyncio.sleep(2)
         await m.delete()
 

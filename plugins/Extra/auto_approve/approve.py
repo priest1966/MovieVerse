@@ -175,7 +175,7 @@ async def auto_approve(client, message: ChatJoinRequest):
                         ]]
                         await client.send_message(
                             chat_id=message.from_user.id,
-                            text="<b>You are not verified !\nKindly verify to continue !</b>",
+                            text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\n Turn Off Ads Blocker Or Use Chrome Browser For Verification.\n\nBuy premium membership and say goodbye to ads.\nCheck out /plan</b>",
                             protect_content=True,
                             reply_markup=InlineKeyboardMarkup(btn)
                         )
@@ -244,7 +244,7 @@ async def auto_approve(client, message: ChatJoinRequest):
                         ]]
                         await client.send_message(
                             chat_id=message.from_user.id,
-                            text="<b>You are not verified !\nKindly verify to continue !</b>",
+                            text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\n Turn Off Ads Blocker Or Use Chrome Browser For Verification.\n\nBuy premium membership and say goodbye to ads.\nCheck out /plan</b>",
                             protect_content=True,
                             reply_markup=InlineKeyboardMarkup(btn)
                         )
@@ -317,7 +317,7 @@ async def auto_approve(client, message: ChatJoinRequest):
                 ]]
                 await client.send_message(
                     chat_id=message.from_user.id,
-                    text="<b>You are not verified !\nKindly verify to continue !</b>",
+                    text="<b>You are not verified !\nKindly verify to continue and use bot for midnight!\n\n Turn Off Ads Blocker Or Use Chrome Browser For Verification.\n\nBuy premium membership and say goodbye to ads.\nCheck out /plan</b>",
                     protect_content=True,
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
