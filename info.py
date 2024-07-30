@@ -98,17 +98,17 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 # Token Verification Info :
 VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', True))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'omegalinks.in')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '9b3b87cc699f7874fa7193531decf02364770e73')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'viplinkshortx.in')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
 # if verify second shortner is True then fill below url and api
-VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'omegalinks.in')
-VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '9b3b87cc699f7874fa7193531decf02364770e73')
+VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'viplinkshortx.in')
+VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/howtoverify_97/3')
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'omegalinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '9b3b87cc699f7874fa7193531decf02364770e73')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'viplinkshortx.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'ae94aa02950078a27e61d002add8ca0ea8843e5a')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
